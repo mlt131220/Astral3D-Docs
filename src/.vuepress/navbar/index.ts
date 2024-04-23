@@ -11,13 +11,7 @@ export const Navbar = navbar([
                 text: "介绍",
                 link: "/guide/intro.md",
             },
-            {
-                text: "其他",
-                prefix: "other/",
-                children: [
-                    { text: "常见问题", link: "/guide/other/problem.md" }
-                ],
-            },
+            { text: "常见问题", link: "/guide/other/problem.md" }
         ],
     },
     {
