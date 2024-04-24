@@ -18,7 +18,7 @@ actions:
     type: primary
 
   - text: 更新记录
-    link: ./update/plan/
+    link: ./update/plan
     type: primary
     
   - text: 演示站点

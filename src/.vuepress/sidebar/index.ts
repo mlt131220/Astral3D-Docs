@@ -10,6 +10,12 @@ export const Sidebar = sidebar({
             children: "structure",
         },
         {
+            text: "核心",
+            icon: "bug",
+            prefix: "core/",
+            children: "structure",
+        },
+        {
             text: "更新",
             icon: "clipboard-list",
             prefix: "update/",
