@@ -4,19 +4,24 @@ export const Navbar = navbar([
     "/",
     {
         text: "指南",
-        icon: "lightbulb",
+        icon: "fa fa-lightbulb",
         prefix: "/guide/",
         children: [
             {
                 text: "介绍",
                 link: "/guide/intro.md",
             },
-            { text: "常见问题", link: "/guide/other/problem.md" }
+            { text: "常见问题", link: "/guide/problem.md" }
         ],
     },
     {
+        text: "Msy3D",
+        icon: "fa-brands fa-js",
+        link: "/msy3d/index.md",
+    },
+    {
         text: "更新",
-        icon: "clipboard-list",
+        icon: "fa fa-clipboard-list",
         prefix: "/update/",
         children: [
             {
@@ -31,12 +36,12 @@ export const Navbar = navbar([
     },
     {
         text: "演示站点",
-        icon: "democrat",
+        icon: "fa fa-democrat",
         link: "https://editor.mhbdng.cn",
     },
     {
         text: "逆光",
-        icon: "paper-plane",
+        icon: "fa fa-paper-plane",
         link: "https://www.mhbdng.cn",
     },
 ]);

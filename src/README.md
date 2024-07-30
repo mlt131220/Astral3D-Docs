@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: fa fa-home
 title: 主页
 
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
@@ -13,7 +13,7 @@ heroText: ES 3D Editor
 tagline: 基于 ThreeJS + Vue 3 + Naive UI 的三维编辑器
 actions:
   - text: 使用指南
-    icon: lightbulb
+    icon: fa fa-lightbulb
     link: ./guide/
     type: primary
 
