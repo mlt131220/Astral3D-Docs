@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: '基于 ThreeJS + Vue 3 + Naive UI 的三维编辑器', // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
 
   head: [
-    ['link', { rel: 'icon', href: '/ng.ico' }] // 需要被注入到当前页面的 HTML <head> 中的标签
+    ['link', { rel: 'icon', href: '/logo64x64.ico' }] // 需要被注入到当前页面的 HTML <head> 中的标签
   ],
 
   locales: {
