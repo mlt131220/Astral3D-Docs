@@ -33,7 +33,7 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
-      - title: 支持 <code>BIM(.rvt,.ifc,.rva)</code> <code>PDMS(.rvm)</code> <code>CAD(.stp,.step,.dgn)</code> 等格式工业模型。
+      - title: 支持 <code>BIM(.rvt,.ifc,.rva)</code> <code>CAD(.stp,.step,.dgn)</code> 等格式工业模型。
       - title: 支持 <code>CAD(.dwg,.dxf)</code> 图纸解析预览等功能。
 
   - header: 这里或许有你想要的内容
