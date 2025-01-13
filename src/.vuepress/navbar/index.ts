@@ -37,7 +37,7 @@ export const Navbar = navbar([
     {
         text: "演示站点",
         icon: "fa fa-democrat",
-        link: "https://editor.mhbdng.cn",
+        link: "https://editor.astraljs.com",
     },
     {
         text: "逆光",

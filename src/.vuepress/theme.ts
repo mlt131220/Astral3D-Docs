@@ -3,7 +3,7 @@ import { Navbar } from "./navbar/index.js";
 import { Sidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-    hostname: "http://editor-doc.mhbdng.cn",
+    hostname: "http://editor-doc.astraljs.com",
 
     author: {
         name: "Er San",

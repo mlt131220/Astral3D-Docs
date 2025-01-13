@@ -3,7 +3,7 @@ lang: zh-CN
 ---
 
 # :sparkles: 介绍
-ES 3DEditor 是一个以 ThreeJS 作为底层的三维可视化编辑器。<br>
+Astral 3D Editor 是一个以 ThreeJS 作为底层的三维可视化编辑器。<br>
 
 ## 特色功能
 - [x] 场景数据压缩

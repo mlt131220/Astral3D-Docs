@@ -9,7 +9,7 @@ bgImageStyle:
   background-attachment: fixed
 heroImage: /images/home/thumbnail.png
 heroImageDark: /images/home/thumbnailDark.png
-heroText: ES 3D Editor
+heroText: Astral 3D Editor
 tagline: 基于 ThreeJS + Vue 3 + Naive UI 的三维编辑器
 actions:
   - text: 使用指南
@@ -22,7 +22,7 @@ actions:
     type: primary
     
   - text: 演示站点
-    link: https://editor.mhbdng.cn
+    link: https://editor.astraljs.com
     type: secondary
 
 highlights:

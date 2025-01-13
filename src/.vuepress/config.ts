@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  title: 'ES 3D Editor',
+  title: 'Astral 3D Editor',
   description: '基于 ThreeJS + Vue 3 + Naive UI 的三维编辑器', // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
 
   head: [
@@ -16,7 +16,7 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "",
-      description: "ES 3D Editor - 基于 ThreeJS + Vue 3 + Naive UI 的三维编辑器",
+      description: "Astral 3D Editor - 基于 ThreeJS + Vue 3 + Naive UI 的三维编辑器",
     }
   },
 

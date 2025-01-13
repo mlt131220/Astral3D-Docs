@@ -3,7 +3,7 @@ lang: zh-CN
 ---
 
 # 入门
-ES 3DEditor 内置了插件系统，为其提供了巨大的灵活性和可扩展性。
+Astral 3D Editor 内置了插件系统，为其提供了巨大的灵活性和可扩展性。
 
 
 ## 使用方法
@@ -18,7 +18,7 @@ ES 3DEditor 内置了插件系统，为其提供了巨大的灵活性和可扩�
 ![glTF处理器](/images/plugin/glTFHandler/plane.jpg)
 
 ## 内置插件
-ES 3DEditor 内置了以下插件：
+Astral 3D Editor 内置了以下插件：
 - glTF处理器：在Web端处理glTF文件的能力。用于对 glTF 格式的模型文件进行压缩、优化等操作；
 
 
