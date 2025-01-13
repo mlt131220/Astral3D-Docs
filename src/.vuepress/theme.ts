@@ -34,7 +34,7 @@ export default hopeTheme({
 
             copyright: false,
 
-            footer: `<div>Copyright © 2023-present <a href="https://www.github.com/mlt131220" target="_blank">Er San</a> <p><a href="https://beian.miit.gov.cn/" target="_blank">滇ICP备2022001592号-1</a></p></div>`,
+            footer: `<div>Copyright © 2023-present <a href="https://www.github.com/mlt131220" target="_blank">Er San</a> <p><a href="https://beian.miit.gov.cn/" target="_blank">滇ICP备2022001592号-2</a></p></div>`,
 
             displayFooter: true,
 

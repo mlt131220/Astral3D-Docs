@@ -79,9 +79,9 @@ highlights:
 @tab bash
 
 ```bash
-    git clone https://github.com/mlt131220/ES-3DEditor.git
+    git clone https://github.com/mlt131220/Astral3DEditor.git
 
-    cd ES-3DEditor
+    cd Astral3DEditor
     yarn install
     yarn run dev
 ```
