@@ -36,5 +36,8 @@ export const Sidebar = sidebar({
     "/msy3d/":[
         "/msy3d/index.md"
     ],
+    "/pricing/": [
+        "/pricing/index.md"
+    ],
     "/update/": "structure",
 });

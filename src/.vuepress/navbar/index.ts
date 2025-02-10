@@ -11,11 +11,13 @@ export const Navbar = navbar([
                 text: "介绍",
                 link: "/guide/intro.md",
             },
-            { text: "常见问题", link: "/guide/problem.md" }
+            { text: "组件", link: "/guide/components/" },
+            { text: "插件系统", link: "/guide/plugin/" },
+            { text: "常见问题", link: "/guide/problem.md" },
         ],
     },
     {
-        text: "Msy3D",
+        text: "Astral3D",
         icon: "fa-brands fa-js",
         link: "/msy3d/index.md",
     },
@@ -33,6 +35,11 @@ export const Navbar = navbar([
                 link: "/update/logs/_2023_2.md",
             }
         ],
+    },
+    {
+        text: "权益",
+        icon: "fa-brands fa-star",
+        link: "/pricing/index.md",
     },
     {
         text: "演示站点",
