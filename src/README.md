@@ -70,7 +70,7 @@ config:
     type: image-text
     title: 工业范
     description: CAD? BIM? 亦或更多？。
-    image: /images/plume-1.svg
+    image: /images/home/industryDark.png
     list:
       -
         title: CAD
@@ -81,33 +81,6 @@ config:
       -
         title: Future
         description: PDMS、VTU
-  -
-    type: text-image
-    title: 博客
-    description: 主题默认支持博客，生成你的个人博客。
-    image: /images/plume-2.svg
-    list:
-      -
-        title: 文章列表
-        description: 通过文章写作日期，自动排序并生成博客文章列表页。
-      -
-        title: 博主信息
-        description: 自定义名称、座右铭、头像，社交媒体链接。
-      -
-        title: 分类、标签、归档
-        description: 自动生成分类页、标签页，为文章根据年份进行归档。
-  -
-    type: image-text
-    title: 文档
-    image: /images/plume-3.svg
-    description: 主题默认支持文档，生成你的产品文档，或归纳你的知识体系。
-    list:
-      -
-        title: 侧边栏
-        description: 根据文档目录自动生成侧边栏，也可以手动配置，主题提供了更简单的配置方式。
-      -
-        title: 文档分类归纳
-        description: 可以文档的不同，归纳到不同的目录，更好的管理文档结构。
   -
     type: custom
 ---
@@ -140,4 +113,4 @@ config:
 
 ### 更新记录
 
-[Changelog](./changelog.md)
+[Changelog](/notes/update/logs/)
